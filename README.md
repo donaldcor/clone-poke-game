@@ -17,3 +17,5 @@ npm run dev
 
 Open the URL printed by Vite (usually http://localhost:5173) in your browser.
 
+Also, the app is deployed on vercel. You can check it out here: https://clone-poke-game.vercel.app
+
